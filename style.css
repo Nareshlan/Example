@@ -1,0 +1,255 @@
+body{
+    background-image: url("\images/background.jpg");
+   
+}
+
+#para1{
+    color: black;
+    font-size: 40;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    height: 60;
+    width: 200;
+    
+    
+}
+
+#para2{
+    color: white;
+    font-size:35;
+    position: relative;
+    left: 200px;
+    top: 90px;
+    height: 70;
+    width: 600;
+    
+    
+}
+#para3{
+    color:black;
+    font-size: 45;
+    height: 80;
+    width: 800;
+    position: relative;
+    left: 200px;
+    top: 40px;
+    
+
+}
+
+#col1{
+    color: white;
+    font-size:65;
+    background-color: black;
+    height: 100;
+    width: 160;
+    position: relative;
+    left: 200px;
+   bottom:10px;
+    
+    
+}
+#col2{
+    color: black;
+    font-size: 50;
+    background-color: lightyellow;
+    height: 70;
+    width: 255;
+    position: relative;
+    left: 200px;
+    bottom:10px;
+    
+  
+    
+}
+
+ #div2{
+    height: 100;
+    width: 200;
+    position: fixed;
+    top: 180;
+    left: 900;
+    font-size: 15;
+    font-family:cursive;  
+ 
+}
+#img1{
+    height: 140;
+    width: 140;
+    position: fixed;
+    top: 25;
+    left: 1050;
+    background-color:floralwhite;
+
+}
+
+#img2{
+    height: 160;
+    width: 160;
+    position: fixed;
+    bottom: 25;
+    left: 800;
+    background-color:burlywood
+
+}
+
+#ac1{
+    height: 30;
+    width: 140;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top:180;
+    left: 1050;
+    text-decoration: none;
+    text-align: right;
+     padding-right: 5px;
+     padding-top: 10px;
+       
+}
+
+#ac2{
+    height: 30;
+    width: 140;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top:230;
+    left: 1050;
+    text-decoration: none;
+    text-align:right;
+     padding-right: 5px;
+     padding-top: 10px;
+    
+}
+#ac3{
+    height: 30;
+    width: 140;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top:280;
+    left: 1050;
+    text-decoration: none;
+    text-align: right;
+     padding-right: 5px;
+     padding-top: 10px;
+}
+#ac4{
+    height: 30;
+    width: 140;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top:330;
+    left: 1050;
+    text-decoration: none;
+    text-align: right;
+     padding-right: 5px;
+     padding-top: 10px;
+    
+}
+#ac5{
+    height: 30;
+    width: 140;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top:380;
+    left: 1050;
+    text-decoration: none;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 5px;
+   
+}
+
+    
+
+.class1{
+    color: white;
+}
+
+.abpara1{
+    background-color: white;
+    background-image: none;
+    width: 600;
+    position: relative;
+    left: 100;
+    top: 140;
+    padding: 5;    
+}
+#para13 {
+    position: relative;
+    left:380;
+    font-size: 40;
+    width: 180;
+    text-align: center;
+}
+
+#para12 {
+    position: relative;
+    left:380;
+    width:250;
+}
+#aba1{
+    text-decoration: none;
+    font-size: 25;
+  
+}
+
+#pcon1{
+    font: 40;
+     position: fixed;
+    left: 250;
+    top: 100;
+    font-size: 35;
+   
+ 
+}
+
+form {
+    margin:180px auto;
+    
+}
+
+
+
+form > div{
+    padding : 10px;
+}
+
+
+form label{
+    width : 150px;
+    display:inline-block;
+    text-align:right;
+    padding-right:10px;
+}
+
+form input[type=text]{
+    padding:5px;
+    border-radius:5px;
+    border: 1px solid #ccc;
+    width:280px;   
+}
+
+form textarea{
+    padding:5px;
+    border-radius:5px;
+    border: 1px solid #ccc;
+    width:280px;   
+}
+#para8{
+    font-size: 25;
+    width: 120;
+}
+#sab1{
+    background-color: white;
+}
+
+
+
+
+
